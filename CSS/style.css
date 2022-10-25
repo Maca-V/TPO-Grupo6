@@ -1,0 +1,110 @@
+/* Estilo Body */
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.fondo {
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+/* Estilo Header */
+.header {
+    background-color: #2e2e30;
+    height: 20%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    display: block;
+   
+    
+}
+
+ .titulo{
+ 
+  width: 50%;
+  margin:35px auto;
+  font-family: 'Barrio', cursive;
+  text-transform: uppercase;
+  color: rgba(228, 214, 214, 0.986);
+  font-size: xx-large;  
+    
+}
+
+.titulo:hover{
+    transform: scale(1.5);
+    transition: 0.8s;
+}
+
+
+/* Estilo Main - Nav */
+
+.main{
+    background-image : url(../ASSETS/fondo\ gym\ claro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav {
+    background-color: #45454e;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    width: 15%;
+    height: auto;
+    max-height: 80%;
+    margin:80px auto;  
+    font-family: 'Barrio', cursive;
+    text-transform: uppercase;
+    color: rgba(228, 214, 214, 0.986) ;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+
+   
+ 
+}
+
+
+
+.nav-enlace{ 
+    
+    color: rgba(228, 214, 214, 0.986);
+    font-family: 'Barrio', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items:  center;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 40 px;
+    
+    
+   
+   
+    
+    
+   
+}
+.nav-enlace:hover{
+    
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+
+/* Estilo Main */
+
+/* Estilo Footer */
+.footer{
+    height: 20%;
+    background-color: #2e2e30;
+}
+
