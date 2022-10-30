@@ -35,7 +35,7 @@ Se consumió una API Rest desde JS, mediante DummyJSON para ofrecer un espacio p
 <h3>Acceso al proyecto</h3>
 
 El proyecto puede ser visualizado mediante el siguiente link:
-XXXX
+https://maca-v.github.io/TPO-Grupo6/
 
 <h3>Tecnologías utilizadas</h3>
 
