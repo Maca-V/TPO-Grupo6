@@ -49,8 +49,8 @@ XXXX
 <h3>Personas Desarrolladores del proyecto</h3>
 
 <ul>
-  <li>xxx, Diego</li>
-  <li>Valacco, Diego</li>
+  <li>Mora, Diego</li>
+  <li>Valacco, Macarena A.</li>
   
 </ul>
 
