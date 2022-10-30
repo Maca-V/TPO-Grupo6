@@ -49,6 +49,7 @@ nav {
     height: 100%;
     
     border-radius: 50px;
+    
    
     text-transform: uppercase;
     color: rgba(228, 214, 214, 0.986) ;
@@ -164,5 +165,11 @@ nav {
         grid-template-columns: repeat(1, 1fr);
         grid-gap:30px;
         padding: 35px 0px;
+    }
+}
+
+@media screen and (max-width:560px){
+    .nav-enlace{
+        font-size: 5vw;
     }
 }
